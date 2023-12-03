@@ -1,3 +1,4 @@
+![logo](https://github.com/DeeptamDas/DeeptamDas/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Deeptam Das</h1>
 <h3 align="center">A passionate frontend and software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
