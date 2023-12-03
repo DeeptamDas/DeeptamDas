@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React Basics**
 
-- 👯 Educational Website **https://iedureka.netlify.app**
+- 👯 Making Educational Website **https://iedureka.netlify.app**
 
 - 📫 How to reach me **deeptamdas200@gmail.com**
 
