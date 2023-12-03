@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptamdas&label=Profile%20views&color=0e75b6&style=flat" alt="deeptamdas" /> </p>
 
-- 🔭 I’m currently working on **Implementation om Image CAPTCHA**
+- 🔭 I’m currently working on **Implementation on Image CAPTCHA**
 
 - 🌱 I’m currently learning **React Basics**
 
