@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **deeptamdas200@gmail.com**
 
-- ⚡ **-Wake-Eat-Code-Sleep=**
+- ⚡ **-Wake-Eat-Code-Sleep-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
