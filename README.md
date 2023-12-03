@@ -1,4 +1,6 @@
 ![logo](https://github.com/DeeptamDas/DeeptamDas/blob/main/github-header-image.png)
+
+
 <h1 align="center">Hi 👋, I'm Deeptam Das</h1>
 <h3 align="center">A passionate frontend and software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
@@ -16,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dasdeeptam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dasdeeptam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ deeptam-das-b53349276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ deeptam-das-b53349276" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/deeptamdas/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deeptamdas/?next=%2f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deeptam-das-b53349276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deeptam-das-b53349276/" height="30" width="40" /></a>
+<a href="https://instagram.com/deeptamdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deeptamdas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
