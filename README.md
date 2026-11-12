@@ -15,7 +15,7 @@
 
 - 👯 I made an Educational Website **https://iedureka.netlify.app**
 
-- 👨‍💻 Visit My Portfolio [https://deeptamdas.netlify.app](https://deeptamdas.netlify.app)
+- 👨‍💻 Visit My Portfolio [https://deeptamdas.netlify.app](https://idyllic-hotteok-f02df1.netlify.app)
 
 - 📫 How to reach me **deeptamdas200@gmail.com**
 
