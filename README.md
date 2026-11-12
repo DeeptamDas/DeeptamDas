@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Implementation on Image CAPTCHA**
 
-- 🌱 I’m currently learning **React Basics**
+- 🌱 I’m currently learning **Data Science & AI**
 
 - 👯 I made an Educational Website **https://iedureka.netlify.app**
 
